@@ -1,0 +1,5 @@
+                        -------------------------------
+                             dev1/brancher1          pousse le branche1 sur github
+
+-------------------------------------fusion--------------------------------------
+                                 dev2/brancher2      pousse le branche2 sur github
